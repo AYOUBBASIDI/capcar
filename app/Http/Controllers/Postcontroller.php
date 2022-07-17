@@ -6,7 +6,7 @@ use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
-class Postcontroller extends Controller
+class PostController extends Controller
 {
 
 
