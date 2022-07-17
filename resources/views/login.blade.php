@@ -360,7 +360,7 @@ var pop = {
     `<div id="popbox">
       <h1 id="poptitle">CRÉEZ VOTRE COMPTE</h1>
       <div id="poptext">
-      <form action="addUser" method="POST"> className/methode/parame 
+      <form action="addUser" method="POST"> 
         @if(Session::get('success'))
         <div>
         {{Session::get('success')}}
